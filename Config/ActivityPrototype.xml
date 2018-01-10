@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<root type="ActivityPrototype">
+  <!-- 
+pid="唯一标识"  
+name="名称" 
+desc="描述" 
+itemIcon="图片名" 
+atlas="图集名" 
+time="开始时间和关闭时间。如：15;0;16;0表示15点开启，16点结束" 后台时间配置是代码写死，不在任何表里。
+countdown="关卡倒计时" 
+times="3"
+enableVipLv="3"  限制VIP等级开启自动战斗
+ -->
+  <Notification pid="14007031" name="已修改" desc="已修改" difficult="0" scene="pve_Act4_01" expend="0" backgroundAudioID="9200032" isActivity="1" openLevel="18" passMaxCount="2" time="300" num="80" des="已修改" warning="已修改" icon="Image_Event05" targetTips="2" unlock="1050101" order="0" />
+  <Notification pid="14006000" name="已修改" desc="已修改" itemIcon="11" openLevel="22" atlas="11" time="15;0;16;0" countdown="120" times="5" order="1" />
+  <Notification pid="14003000" name="已修改" desc="已修改" openLevel="29" itemIcon="11" atlas="11" time="15;0;16;0" countdown="120" times="5" order="2" timeopen="08:00;24:00" />
+  <Notification pid="14007011" name="已修改" desc="已修改" difficult="0" scene="pve_Act1_01" expend="0" backgroundAudioID="9200032" isActivity="1" openLevel="34" passMaxCount="2" time="300" num="80" des="已修改" warning="已修改" icon="Image_Event04" targetTips="2" unlock="1050101" order="3" />
+  <Notification pid="14008000" name="已修改" desc="已修改" openLevel="37" itemIcon="11" atlas="11" time="9;0;0;0" countdown="180" times="60" order="4" enableVipLv="3" />
+  <Notification pid="14007000" name="已修改" desc="已修改" itemIcon="11" openLevel="41" atlas="11" time="15;0;16;0" countdown="600" times="5" order="5" timeopen="20:00;22:00" />
+  <Notification pid="14005000" name="已修改" desc="已修改" itemIcon="11" openLevel="38" atlas="11" time="15;0;16;0" countdown="120" times="5" order="6" />
+  <Notification pid="14007041" name="已修改" desc="已修改" difficult="0" scene="pve_Act2_01" expend="0" backgroundAudioID="9200032" isActivity="1" openLevel="41" passMaxCount="2" time="300" num="80" des="已修改" warning="已修改" icon="Image_Event01" targetTips="2" unlock="1050101" order="7" />
+  <Notification pid="14001000" name="已修改" desc="已修改" openLevel="31" itemIcon="11" atlas="11" time="15;0;16;0" countdown="600" times="3" order="8" enableVipLv="3" />
+  <Notification pid="14007051" name="已修改" desc="已修改" difficult="0" scene="pve_Act5_01" expend="0" backgroundAudioID="9200032" isActivity="1" openLevel="44" passMaxCount="2" time="300" num="80" des="已修改" warning="已修改" icon="Image_Event03" targetTips="2" unlock="1050101" order="9" />
+  <Notification pid="14002000" name="已修改" desc="已修改" openLevel="45" itemIcon="11" atlas="11" time="9;0;0;0" countdown="180" times="120" order="10" timeopen="12:00;12:15" timeclose="12:00;12:15" enableVipLv="4" />
+  <Notification pid="14011000" name="已修改" desc="已修改" itemIcon="11" openLevel="55" atlas="11" time="9;0;0;0" countdown="120" times="5" order="11" />
+  <Notification pid="14007061" name="已修改" desc="已修改" difficult="0" scene="pve_Act10_06_01" expend="0" backgroundAudioID="9200032" isActivity="1" openLevel="35" passMaxCount="2" time="300" num="80" des="已修改" warning="已修改" icon="BG_DFSD1" targetTips="2" unlock="1050101" order="12" />
+  <Notification pid="14007021" name="已修改" desc="已修改" difficult="0" scene="pve_Act3_01" expend="0" backgroundAudioID="9200032" isActivity="1" openLevel="54" passMaxCount="2" time="300" num="80" des="已修改" warning="已修改" icon="Image_Event02" targetTips="2" unlock="1050101" order="13" />
+  <Notification pid="27001000" name="已修改" desc="已修改" openLevel="44" itemIcon="11" atlas="11" time="12;0;12;30" countdown="600" times="3" order="14" timeopen="12:00;12:30" />
+  <Notification pid="14010000" name="已修改" desc="已修改" openLevel="60" itemIcon="11" atlas="11" time="15;0;16;0" countdown="600" times="3" order="15" />
+  <Notification pid="14007071" name="已修改" desc="已修改" openLevel="65" itemIcon="11" atlas="11" time="15;0;16;0" countdown="600" times="3" order="16" />
+</root>
